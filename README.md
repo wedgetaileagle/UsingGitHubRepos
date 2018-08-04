@@ -1,6 +1,6 @@
 # UsingGitHubRepos
 Doco on how to clone / add / commit / push a GitHub repo using the "git" command on a Linux
-- Rough procedure that need to be tested \ checked
+- Rough procedure that needs to be tested \ checked
 
 Get copy of http URL of GitHub repo
 
