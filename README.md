@@ -1,22 +1,27 @@
-# UsingGitHubRepos
+#### UsingGitHubRepos
 Doco on how to clone / add / commit / push a GitHub repo using the "git" command on a Linux
 - Rough procedure that needs to be tested \ checked
 
-Get copy of http URL of GitHub repo using 'Clone or Download' button.
+# Get copy of http URL of GitHub repo using 'Clone or Download' button.
 
-On local Linux machine execute command 'git clone https://github.com/wedgetaileagle/UsingGitHubRepos.git'
+1. On local Linux machine execute command 'git clone https://github.com/wedgetaileagle/UsingGitHubRepos.git'
+2. git log
+3. git status
 
-git log
-git status
+# Implement changes to code \ repo \ file
 
-Implement changes to code \ repo
+4. git add
+5. git log
+6. git status
 
-git add
-git log
+# Commit updated file to the local git repo
 
-git commit -m "Message with details of updates"
-git log
+7. git commit -m "Message with details of updates"
+8. git log
+9. git status
 
-git status
-git push
-git status
+# Push local repo to github Master repo
+
+10. git push
+11. git log
+12. git status
