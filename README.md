@@ -10,7 +10,7 @@ Doco on how to clone / add / commit / push a GitHub repo using the "git" command
 
 # Add new file to Git repo
 
-4. git add <File Name>
+4. git add 'File Name'
 5. git log
 6. git status
 
