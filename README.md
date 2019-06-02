@@ -8,9 +8,9 @@ Doco on how to clone / add / commit / push a GitHub repo using the "git" command
 2. git log
 3. git status
 
-# Implement changes to code \ repo \ file
+# Add new file to Git repo
 
-4. git add <File Name>
+4. git add <File Name> @ Adds file to local Git repo
 5. git log
 6. git status
 
