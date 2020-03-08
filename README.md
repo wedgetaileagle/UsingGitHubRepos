@@ -17,9 +17,9 @@ Doco on how to clone / add / commit / push a GitHub repo using the "git" command
 5. git log
 6. git status
 
-# Commit updated file to the local git repo
+# Commit updated files to the local git repo
 
-7. git commit -m "Message with details of updates"
+7. git commit -a -m "Message with details of updates"
 # Use git commit to save the updates to the local repo
 
 8. git log
