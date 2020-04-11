@@ -25,7 +25,7 @@ Doco on how to clone / add / commit / push a GitHub repo using the "git" command
 
 # Push local repo to Master repo
 10. git push
-# Will need <MyGitHubCredentials>
+# Will need "MyGitHubCredentials"
 
 11. git log
 # Use to check log file for update to master repo
