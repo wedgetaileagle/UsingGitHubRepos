@@ -10,7 +10,7 @@ Doco on how to clone / add / commit / push a GitHub repo using the "git" command
 # Add new file to Git repo
 4. git add 'File Name'
 # Confirm your CWD is the directory of the repo
-## Use git add to add to the current git repo new files. Note that this only add the files to the local repo, not the github cloud based repo
+## Use git add to add a new file to the local repo. Note that this only adds the files to the local repo, not the github cloud based repo
 
 5. git log
 6. git status
