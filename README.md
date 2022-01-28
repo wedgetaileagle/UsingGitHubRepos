@@ -38,3 +38,6 @@ Doco on how to clone / add / commit / push a GitHub repo using the "git" command
 
 12. git status
 # Use git status to confirm that the master repo has been synchronised with the updates to the local repo
+
+13. GitHub Web UI + Confirm Updates
+# Checking that the GitHub Backend Repo has been updated
