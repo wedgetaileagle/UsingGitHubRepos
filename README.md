@@ -2,10 +2,10 @@
 Doco on how to clone / add / commit / push a GitHub repo using the "git" command on a Linux
 - Version 202201290830
 - GitHub now uses SSH keys for the MFA authentication from the Linux BASH shell
-- Each Linux Local Userid will need to have the ssh Public key added to GitHub "WedgeTailEagle" Profile
--- GitHub Web UI + "WedgeTailEagle" Profile / Settings / SSH Keys Page + SSH Keys -> Upload Linux Userid SSH Public key
+- Each Linux Local Userid will need to have the SSH Public key added to GitHub "WedgeTailEagle" Profile
+- GitHub Web UI + "WedgeTailEagle" Profile / Settings / SSH Keys Page + SSH Keys -> Upload Linux Userid SSH Public key
 - SSH Keys will be setup with a "Passphrase"
--- Pi4 203 root Userid SSH Key "Passphrase" in KeePass
+- Pi4 203 root Userid SSH Key "Passphrase" in KeePass DB
 
 # Get copy of http URL of GitHub repo using 'Clone or Download' button.
 1. On local Linux machine execute command 'git clone https://github.com/wedgetaileagle/UsingGitHubRepos.git'
